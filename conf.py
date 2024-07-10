@@ -3,8 +3,8 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project information
-project = 'ICICLE Training Catalog'
-author = 'David Lee'
+project = 'Your Project Name'
+author = 'Your Name'
 release = '0.1'
 
 # General configuration
